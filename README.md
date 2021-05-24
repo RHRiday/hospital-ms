@@ -1,4 +1,4 @@
-#Hospital Management System
+<h1>Hospital Management System<h1>
 
 <p>Features</p>
 
@@ -10,6 +10,7 @@
 and so much more
 
 <p>Installations</p>
+
 1. Create a database namely "hms"
 2. Import given sql file
 3. Open via any browser

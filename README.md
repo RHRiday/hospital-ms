@@ -14,3 +14,6 @@ and so much more
 1. Create a database namely "hms"
 2. Import given sql file
 3. Open via any browser
+
+<p>Preview</p>
+<img src="images/front.jpg">
